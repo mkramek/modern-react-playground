@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lodash.debounce": "^4.0.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.23.1"
   },
   "devDependencies": {
@@ -26,5 +28,6 @@
     "prettier": "^3.2.5",
     "sass": "^1.77.2",
     "vite": "^5.2.0"
-  }
+  },
+  "packageManager": "yarn@4.2.2+sha512.c44e283c54e02de9d1da8687025b030078c1b9648d2895a65aab8e64225bfb7becba87e1809fc0b4b6778bbd47a1e2ab6ac647de4c5e383a53a7c17db6c3ff4b"
 }
